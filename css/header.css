@@ -36,6 +36,10 @@ border-color:  #a2adff;
   color: #fff;
 }
 
+.header__logo {
+  width: 220px;
+}
+
 @media (max-width: 1140px) {
   .header {
     padding: 32px 0 40px;

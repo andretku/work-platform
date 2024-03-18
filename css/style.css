@@ -1,7 +1,6 @@
 @font-face {
   font-family: "Inter";
-  src: url("../fonts/inter-regular.woff2") format(".woff2");
-  src: url("../fonts/inter-regular.woff") format(".woff");
+  src: url("../fonts/Roboto-Regular.ttf") format(".ttf");
   font-weight: 400;
 }
 
@@ -26,7 +25,7 @@ body {
   color: #171717;
   line-height: 1.2;
 
-  background-color: #f3f4f8;
+  background-color: #cfd0d1;
 }
 
 img,
@@ -81,6 +80,7 @@ fieldset {
 
 .blue-text {
   color: #2a18ff;
+  padding-left: 170px;
 }
 
 @media (max-width: 1140px) {

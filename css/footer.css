@@ -10,6 +10,7 @@
 }
 .footer__logo {
     grid-area: logo;
+    width: 150px;
 }
 .footer__copyright {
     grid-area: copyright;
